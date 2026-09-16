@@ -50,3 +50,18 @@ The final platform selection should consider:
 - Security
 - Cost
 - Skills of the technical team
+
+  ## Decision Matrix
+
+| Criteria | AWS | Microsoft Azure | Google Cloud |
+|---|---|---|---|
+| Compute | ✓ | ✓ | ✓ |
+| Storage | ✓ | ✓ | ✓ |
+| Networking | ✓ | ✓ | ✓ |
+| Identity | ✓ | ✓ | ✓ |
+| Analytics | ✓ | ✓ | ✓ |
+| AI/ML | ✓ | ✓ | ✓ |
+| Microsoft Integration |  | ✓ |  |
+| Kubernetes | ✓ | ✓ | ✓ |
+
+The matrix shows that all three providers offer major cloud capabilities. The appropriate platform depends on the technical requirements, existing environment, services needed, and organizational priorities.

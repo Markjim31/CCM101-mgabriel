@@ -2,28 +2,24 @@
 
 ## Mission Overview
 
-This laboratory activity explores three major cloud platforms: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud. The activity focuses on researching cloud services, comparing platforms, and identifying suitable cloud solutions for different client scenarios.
-
 ## Objectives
-
-- Research AWS, Microsoft Azure, and Google Cloud.
-- Identify important services offered by each provider.
-- Compare the three cloud platforms.
-- Analyze different client scenarios.
-- Map local Linux resources to equivalent cloud services.
-- Develop multi-cloud awareness and decision-making skills.
 
 ## Cloud Platforms Explored
 
-- Amazon Web Services (AWS)
-- Microsoft Azure
-- Google Cloud
+## Research Activities
+
+## Comparison Activities
+
+## Client Recommendation Activities
+
+## KillerCoda Activities
 
 ## Tools Used
 
-- GitHub
-- KillerCoda
-- Linux Terminal
-- Official AWS documentation
-- Official Microsoft Azure documentation
-- Official Google Cloud documentation
+## Skills Learned
+
+## Challenges Encountered
+
+## Challenges Encountered
+
+One challenge was organizing information from three different cloud platforms. Another challenge was understanding that different providers often use different names for services that perform similar functions. The activity helped me understand how cloud services can be compared based on their purpose and requirements.

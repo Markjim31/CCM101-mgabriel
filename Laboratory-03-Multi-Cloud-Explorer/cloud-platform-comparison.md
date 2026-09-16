@@ -16,3 +16,15 @@ AWS, Azure, and Google Cloud all provide compute, storage, networking, identity,
 ## Differences
 
 AWS, Azure, and Google Cloud organize their services differently and use different names for comparable services. Their platforms also have different strengths, tools, interfaces, and service ecosystems.
+## KillerCoda to Cloud Service Mapping
+
+| KillerCoda Resource | AWS | Microsoft Azure | Google Cloud |
+|---|---|---|---|
+| Linux CPU / Compute | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| Memory / Compute | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| Disk / Storage | Amazon EBS | Azure Disk Storage | Hyperdisk |
+| Network | Amazon VPC | Azure Virtual Network | Google Cloud VPC |
+
+## Explanation
+
+The Linux environment in KillerCoda provides local compute, memory, storage, and networking resources. These resources can be conceptually mapped to cloud services that provide similar infrastructure capabilities.

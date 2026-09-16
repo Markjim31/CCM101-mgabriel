@@ -54,7 +54,7 @@ tmpfs          tmpfs  5.0M     0  5.0M   0% /run/lock
 /dev/vda15     vfat   105M  6.2M   99M   6% /boot/efi
 
 ## Hostname
-ubuntu
+Ubuntu
 
 
 ## IP Address

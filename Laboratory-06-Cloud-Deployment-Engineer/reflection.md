@@ -1,0 +1,9 @@
+During my Nextcloud deployment, I learned how Docker Compose can make the process of setting up a cloud application much easier. For me, the `docker-compose.yml` file was very helpful because I did not have to configure every service one by one. The file already contains the settings for the containers, ports, and connections between the services. Because everything was organized in one place, the deployment became easier to manage.
+
+I also learned that proper indentation is very important in YAML. While working on the configuration, I realized that even a small spacing or indentation mistake can cause an error. If the indentation is incorrect, Docker Compose may not be able to read the file properly, which can prevent the containers from starting. This taught me to be more careful when editing configuration files.
+
+Another thing I understood better was the purpose of environment variables. They are useful because they allow important values such as usernames, passwords, and other settings to be stored separately from the main configuration. They also make it easier to change settings without having to modify the entire `docker-compose.yml` file.
+
+My experience deploying Nextcloud was not completely smooth. There were times when I encountered errors and had to check my configuration and make sure that the containers were running correctly. Although it was frustrating at first, troubleshooting those problems helped me understand how Docker, containers, and Nextcloud work together.
+
+Compared to what I learned in Mission 1, my understanding of Cloud Computing has changed. Before, I mostly thought of cloud computing as storing and accessing files online. Now, I understand that it also involves deploying applications, managing services and resources, and creating environments where applications can run. The Nextcloud deployment helped me see how these concepts work in an actual setup rather than just learning them in theory.
